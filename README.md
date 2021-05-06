@@ -2,7 +2,7 @@
 This is a clone of **Frontend of webpage of ** **Breathefree**.
 
 ## Motivation
-When we  get this project we are begineers in javascript , so we decided to make this project on **HTML5 & CSS3** only
+When we  get this project we are begineers in javascript , so we decided to make this project on **HTML5 & CSS3** only  and still make it like original.
 
 
 ## Build status
