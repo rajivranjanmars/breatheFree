@@ -70,4 +70,10 @@ HTML5 , CSS3 and JAVASCRIPT
 
 
 
-## Build with ❤ by <a href ="https://github.com/rajivranjanmars" >Rajiv Ranjan </a> , <a href ="https://github.com/kunalsisodiacse" >Kunal Sisodia </a> and <a href ="https://github.com/amanpatel1527" >Aman Patel </a> 
+## Build with ❤ by <a href ="https://github.com/rajivranjanmars" >Rajiv Ranjan </a> , <a href ="https://github.com/kunalsisodiacse" >Kunal Sisodia </a> and <a href ="https://github.com/amanpatel1527" >Aman Patel </a>
+
+## Fork author and maintainer
+
+[rajivranjanmars](https://rajivranjana.in)
+
+This fork preserves the original project authorship, licenses, and upstream acknowledgments.
