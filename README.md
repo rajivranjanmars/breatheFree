@@ -74,6 +74,6 @@ HTML5 , CSS3 and JAVASCRIPT
 
 ## Fork author and maintainer
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
 
 This fork preserves the original project authorship, licenses, and upstream acknowledgments.
